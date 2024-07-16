@@ -111,4 +111,4 @@ A
 P.s.: Although the algorithm works for as many blocks as you wish, as long as you follow the indicated syntax to organise the information, the format function to display the steps followed by the algorithm only works with four blocks, so the intermediate output you get is on the variable path that holds the information of the current state and the state before that one, so you are able to backtrack the steps until the initial state.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details. 
